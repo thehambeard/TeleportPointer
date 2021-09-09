@@ -1,0 +1,29 @@
+C:\Program Files (x86)\Steam\steamapps\common\Pathfinder Kingmaker\Mods\NoHistory\info.json
+C:\Program Files (x86)\Steam\steamapps\common\Pathfinder Kingmaker\Mods\NoHistory\NoHistory.dll
+C:\Program Files (x86)\Steam\steamapps\common\Pathfinder Kingmaker\Mods\NoHistory\NoHistory.pdb
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\obj\Release\NoHistory.csprojAssemblyReference.cache
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\obj\Release\NoHistory.csproj.CoreCompileInputs.cache
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\obj\Release\NoHistory.csproj.CopyComplete
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\obj\Release\NoHistory.dll
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\obj\Release\NoHistory.pdb
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\bin\Release\info.json
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\bin\Release\NoHistory.dll
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\bin\Release\NoHistory.pdb
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\bin\Release\0Harmony.dll
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\bin\Release\Assembly-CSharp-firstpass.dll
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\bin\Release\Assembly-CSharp.dll
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\bin\Release\DOTween.dll
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\bin\Release\DOTween46.dll
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\bin\Release\Newtonsoft.Json.dll
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\bin\Release\UnityEngine.AnimationModule.dll
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\bin\Release\UnityEngine.AudioModule.dll
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\bin\Release\UnityEngine.CoreModule.dll
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\bin\Release\UnityEngine.dll
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\bin\Release\UnityEngine.ImageConversionModule.dll
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\bin\Release\UnityEngine.IMGUIModule.dll
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\bin\Release\UnityEngine.JSONSerializeModule.dll
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\bin\Release\UnityEngine.ParticleSystemModule.dll
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\bin\Release\UnityEngine.TextRenderingModule.dll
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\bin\Release\UnityEngine.UI.dll
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\bin\Release\UnityEngine.UIModule.dll
+C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\bin\Release\UnityModManager.dll

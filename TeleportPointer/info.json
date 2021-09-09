@@ -1,0 +1,10 @@
+{
+    "Id": "TeleportPointer",
+    "DisplayName": "TeleportPointer",
+    "Author": "Hambeard",
+    "Version": "1.0.1",
+    "ManagerVersion": "0.22.9",
+    "Requirements": [],
+    "AssemblyName": "TeleportPointer.dll",
+    "EntryMethod": "TeleportPointer.Main.Load"
+}
