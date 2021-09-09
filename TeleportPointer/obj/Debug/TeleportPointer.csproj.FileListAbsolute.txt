@@ -1,8 +1,0 @@
-C:\Program Files (x86)\Steam\steamapps\common\Pathfinder Second Adventure Debug\Mods\TeleportPointer\info.json
-C:\Program Files (x86)\Steam\steamapps\common\Pathfinder Second Adventure Debug\Mods\TeleportPointer\TeleportPointer.dll
-C:\Program Files (x86)\Steam\steamapps\common\Pathfinder Second Adventure Debug\Mods\TeleportPointer\TeleportPointer.pdb
-C:\Users\tmw50\source\repos\TeleportPointer\NoHistory\obj\Debug\TeleportPointer.csproj.AssemblyReference.cache
-C:\Users\tmw50\source\repos\TeleportPointer\NoHistory\obj\Debug\TeleportPointer.csproj.CoreCompileInputs.cache
-C:\Users\tmw50\source\repos\TeleportPointer\NoHistory\obj\Debug\TeleportPointer.csproj.CopyComplete
-C:\Users\tmw50\source\repos\TeleportPointer\NoHistory\obj\Debug\TeleportPointer.dll
-C:\Users\tmw50\source\repos\TeleportPointer\NoHistory\obj\Debug\TeleportPointer.pdb

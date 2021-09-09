@@ -1,8 +1,0 @@
-C:\Program Files (x86)\Steam\steamapps\common\Pathfinder Kingmaker\Mods\NoHistory\NoHistory.dll
-C:\Program Files (x86)\Steam\steamapps\common\Pathfinder Kingmaker\Mods\NoHistory\NoHistory.pdb
-C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\obj\Debug\NoHistory.csprojAssemblyReference.cache
-C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\obj\Debug\NoHistory.csproj.CoreCompileInputs.cache
-C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\obj\Debug\NoHistory.csproj.CopyComplete
-C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\obj\Debug\NoHistory.dll
-C:\Users\Hambot2.0\source\repos\NoHistory\NoHistory\obj\Debug\NoHistory.pdb
-C:\Program Files (x86)\Steam\steamapps\common\Pathfinder Kingmaker\Mods\NoHistory\info.json
