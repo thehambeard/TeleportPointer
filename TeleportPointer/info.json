@@ -2,8 +2,8 @@
     "Id": "TeleportPointer",
     "DisplayName": "TeleportPointer",
     "Author": "Hambeard",
-    "Version": "1.0.1",
-    "ManagerVersion": "0.22.9",
+    "Version": "1.0.0",
+    "ManagerVersion": "0.23.4",
     "Requirements": [],
     "AssemblyName": "TeleportPointer.dll",
     "EntryMethod": "TeleportPointer.Main.Load"
